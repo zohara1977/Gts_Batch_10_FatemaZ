@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 
-public class Practice_Open_Browser {
+public class Orange_Exercise {
 
 	public static void main(String[] args) throws Throwable {
 		
