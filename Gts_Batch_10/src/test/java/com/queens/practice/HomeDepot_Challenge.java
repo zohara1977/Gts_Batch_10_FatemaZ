@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class FaceBook_Exercise {
+public class HomeDepot_Challenge {
 	
 
 	public static void main(String[] args) throws Throwable {
